@@ -1,0 +1,13 @@
+# python folders
+__pycache__/
+share/
+bin/
+lib/
+recorded_images/
+include/
+person_classifier/
+person_features/
+settings/
+verify_images/
+# virtual environment config file
+pyvenv.cfg

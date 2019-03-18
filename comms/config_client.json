@@ -1,0 +1,7 @@
+{
+    "host": "192.168.43.9",
+    "port": 8080,
+    "size": 1024,
+    "aeskey": "mysecretpassword",
+    "blocksize": 16
+}

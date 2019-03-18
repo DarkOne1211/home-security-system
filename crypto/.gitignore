@@ -1,0 +1,8 @@
+# python folders
+__pycache__/
+share/
+bin/
+lib/
+include/
+# virtual environment config file
+pyvenv.cfg
