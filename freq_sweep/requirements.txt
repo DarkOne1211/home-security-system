@@ -35,7 +35,7 @@ motephat==0.0.2
 mypy==0.470
 numpy==1.16.1
 oauthlib==2.0.1
-opencv-python==3.4.4.19
+opencv-python==3.4.7.28
 pantilthat==0.0.7
 pgzero==1.2
 phatbeat==0.1.1
