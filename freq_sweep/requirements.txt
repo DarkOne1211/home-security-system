@@ -33,7 +33,7 @@ microdotphat==0.2.1
 mote==0.0.4
 motephat==0.0.2
 mypy==0.470
-numpy==1.16.1
+numpy==1.22.0
 oauthlib==2.0.1
 opencv-python==3.4.4.19
 pantilthat==0.0.7
